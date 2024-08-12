@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kylestahl
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... ca
+👋 Hi, I’m @kylestahl
+
+Welcome to my grave yard 🪦 of side projects. Maybe one day I'll find the time ⏲️ to get back to these. But it's most likely I'll start yet another personal project but never finish.
+
 
 <!---
 kylestahl/kylestahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
